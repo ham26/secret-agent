@@ -248,4 +248,9 @@ footer {
     display: flex;
     justify-content: center;
   }
+
+  header h2, .one-rem {
+    font-size: 1rem;
+  }
+
 }
